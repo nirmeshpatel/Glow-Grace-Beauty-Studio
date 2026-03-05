@@ -7,7 +7,7 @@ Built with clean HTML, custom CSS, vanilla JavaScript, and Bootstrap 5.
 
 ## Highlights
 
-- Elegant hero section with strong visual branding.
+- Elegant  hero section with strong visual branding.
 - Fully responsive layout for mobile, tablet, and desktop.
 - Sticky navbar with active section highlighting on scroll.
 - Smooth reveal-on-scroll animations using `IntersectionObserver`.
